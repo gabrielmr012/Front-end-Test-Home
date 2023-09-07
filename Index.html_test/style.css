@@ -15,7 +15,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #9a53e6
+      background-image: url(img.jpg/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .wrapper {
